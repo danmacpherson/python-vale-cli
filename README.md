@@ -7,6 +7,9 @@ projects.
 
 ## Installation
 
+**NOTE: This package only acts as a wrapper for using Vale and does not install
+Vale. Make sure you install and configure Vale before using this package.**
+
 Add `vale-cli` package as a dependency in your `requirements.txt` file:
 
 ```shell
